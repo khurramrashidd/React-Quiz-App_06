@@ -23,7 +23,7 @@ This project is part of my **React learning journey (Day 6 Project)**.
 
 ## 🛠 Built With
 
-* **React (Vite)**
+**React (Vite)**
 * JavaScript (ES6+)
 * CSS (Responsive Design)
 
@@ -31,7 +31,6 @@ This project is part of my **React learning journey (Day 6 Project)**.
 
 ## 📂 Project Structure
 
-```text
 day-06-quiz-app/
 │
 ├── index.html
@@ -68,33 +67,12 @@ Bash
 npm run dev
 Open the local server URL in your browser.
 
+---
 📸 Example
 <img width="776" height="803" alt="image" src="https://github.com/user-attachments/assets/45d37afa-9d98-43c7-9a45-d9cd81d5d623" />
+---
 
-
-🧠 Concepts Practiced
-React useState hook for multiple variables
-
-Conditional Rendering (Ternary operators)
-
-Array .map() method for rendering lists
-
-Passing arguments to event handlers
-
-Separating Data (questions.js) from UI Logic
-
-🔐 Best Practices Followed
-Clean and structured components
-
-Reusable layout (Header / Main / Footer)
-
-Keeping data arrays outside the main component file
-
-Proper state updates
-
-Version control using Git
-
-🔮 Future Improvements
+## 🔮 Future Improvements
 Add a timer for each question
 
 Shuffle questions on restart
