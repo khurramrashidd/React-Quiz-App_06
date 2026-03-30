@@ -69,7 +69,8 @@ npm run dev
 Open the local server URL in your browser.
 
 📸 Example
-(Add your project screenshot here)
+<img width="776" height="803" alt="image" src="https://github.com/user-attachments/assets/45d37afa-9d98-43c7-9a45-d9cd81d5d623" />
+
 
 🧠 Concepts Practiced
 React useState hook for multiple variables
