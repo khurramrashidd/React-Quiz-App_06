@@ -82,13 +82,14 @@ Highlight the correct answer if the user guesses wrong
 Add difficulty levels
 
 Fetch questions from an external Trivia API
-
+---
 📜 License
 This project is open source and available under the MIT License.
 
+---
 👨‍💻 Author
 Khurram Rashid
 B.Tech Computer Science Engineering
 Amity University Mumbai
-
+---
 
